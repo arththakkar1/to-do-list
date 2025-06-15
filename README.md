@@ -1,4 +1,4 @@
-# Owner Avatar – To-Do List ✅
+# To-Do List ✅
 
 A minimal to-do list app built with **React** and **Vite**, using modern tooling and fast development experience.
 
