@@ -17,7 +17,7 @@ A minimal to-do list app built with **React** and **Vite**, using modern tooling
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/arththakkar1/owner-avatar-todo-list.git
-cd owner-avatar-todo-list
+git clone https://github.com/arththakkar1/to-do-list.git
+cd to-do-list
 npm install
 npm run dev
