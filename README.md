@@ -2,6 +2,10 @@
 
 A minimal to-do list app built with **React** and **Vite**, using modern tooling and fast development experience.
 
+## 🌐 Live Demo
+
+Check out the live demo: [https://motion-carousel-next-js.vercel.app/](https://to-do-list-psi-lyart-28.vercel.app/)
+
 ## ⚙️ Tech Stack
 
 - React
